@@ -1,1 +1,1 @@
-host-suffix, google.com, global
+host-suffix, google.com, Global
