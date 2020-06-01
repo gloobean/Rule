@@ -1,2 +1,2 @@
 # Adjust
-host-suffix, google.com, Global
+host, technews.tw, Global
