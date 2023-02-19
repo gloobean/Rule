@@ -1,3 +1,4 @@
+payload:
   - DOMAIN-SUFFIX,olevod.com,Proxy
   - DOMAIN-SUFFIX,Workers.dev,Proxy
   - DOMAIN-SUFFIX,splitbee.io,Proxy
