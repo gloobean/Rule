@@ -1,4 +1,0 @@
-# Adjust
-host-suffix, crashlytics.com, China
-# GeoIP
-geoip, cn, China

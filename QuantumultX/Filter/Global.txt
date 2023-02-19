@@ -1,2 +1,0 @@
-# Adjust
-host, technews.tw, Global
