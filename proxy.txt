@@ -1,9 +1,9 @@
 payload:
-  - DOMAIN-SUFFIX,olevod.com,Proxy
-  - DOMAIN-SUFFIX,Workers.dev,Proxy
-  - DOMAIN-SUFFIX,splitbee.io,Proxy
-  - DOMAIN-SUFFIX,5mlstudio.com,Proxy
-  - DOMAIN-SUFFIX,haiwaikan.com,Proxy
-  - DOMAIN-SUFFIX,bfvvs.com,Proxy
-  - DOMAIN-SUFFIX,ceres9350.com,Proxy
-  - DOMAIN-SUFFIX,venus7202.com,Proxy
+  - DOMAIN-SUFFIX,olevod.com
+  - DOMAIN-SUFFIX,Workers.dev
+  - DOMAIN-SUFFIX,splitbee.io
+  - DOMAIN-SUFFIX,5mlstudio.com
+  - DOMAIN-SUFFIX,haiwaikan.com
+  - DOMAIN-SUFFIX,bfvvs.com
+  - DOMAIN-SUFFIX,ceres9350.com
+  - DOMAIN-SUFFIX,venus7202.com
