@@ -1,2 +1,2 @@
 payload:
-  - DOMAIN-KEYWORD,emby,DIRECT
+  - DOMAIN-KEYWORD,emby
