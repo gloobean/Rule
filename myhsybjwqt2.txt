@@ -1,4 +1,3 @@
-  HOST-KEYWORD,chaoxing
   HOST-SUFFIX,chaoxing.com
   HOST-SUFFIX,acm.org
   HOST-SUFFIX,acs.org
