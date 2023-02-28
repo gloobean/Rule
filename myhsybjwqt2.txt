@@ -1,4 +1,3 @@
-DOMAIN-SUFFIX,chaoxing.com,chrdw
 DOMAIN-SUFFIX,astm.org,chrdw
 DOMAIN-SUFFIX,alexanderstreet.com,chrdw
 DOMAIN-SUFFIX,acm.org,chrdw
@@ -70,3 +69,4 @@ DOMAIN-SUFFIX,cnpereading.com,chrdw
 DOMAIN-SUFFIX,lawdata01.com.cn,chrdw
 DOMAIN-SUFFIX,51zhy.cn,chrdw
 DOMAIN-SUFFIX,cnki.net,chrdw
+DOMAIN-SUFFIX,chaoxing.com,chrdw
