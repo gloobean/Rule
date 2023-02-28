@@ -1,5 +1,6 @@
-HOST-KEYWORD,chaoxing,jjj
+
 HOST-SUFFIX,chaoxing.com
+HOST-KEYWORD,chaoxing
 HOST-SUFFIX,acm.org
 HOST-SUFFIX,acs.org
 HOST-SUFFIX,wiley.com
