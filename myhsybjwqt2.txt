@@ -1,73 +1,73 @@
-  - HOST-KEYWORD,chaoxing
-  - HOST-SUFFIX,chaoxing.com
-  - HOST-SUFFIX,acm.org
-  - HOST-SUFFIX,acs.org
-  - HOST-SUFFIX,wiley.com
-  - HOST-SUFFIX,aiaa.org
-  - HOST-SUFFIX,scitation.org
-  - HOST-SUFFIX,aps.org
-  - HOST-SUFFIX,ascelibrary.org
-  - HOST-SUFFIX,asme.org
-  - HOST-SUFFIX,begellhouse.com
-  - HOST-SUFFIX,cambridge.org
-  - HOST-SUFFIX,taylorfrancis.com
-  - HOST-SUFFIX,epnet.com
-  - HOST-SUFFIX,sciencedirect.com
-  - HOST-KEYWORD,elsevier
-  - HOST-SUFFIX,emerald.com
-  - HOST-SUFFIX,engineeringvillage.com
-  - HOST-SUFFIX,calis.edu.cn
-  - HOST-SUFFIX,icevirtuallibrary.com
-  - HOST-SUFFIX,heinonline.org
-  - HOST-SUFFIX,ieee.org
-  - HOST-SUFFIX,clarivate.com
-  - HOST-SUFFIX,iop.org
-  - HOST-SUFFIX,jove.com
-  - HOST-SUFFIX,jstor.org
-  - HOST-SUFFIX,law360.com
-  - HOST-SUFFIX,lexisnexis.com
-  - HOST-SUFFIX,ams.org
-  - HOST-SUFFIX,nature.com
-  - HOST-SUFFIX,osapublishing.org
-  - HOST-SUFFIX,iresearchbook.cn
-  - HOST-SUFFIX,pqdtcn.com
-  - HOST-SUFFIX,proquest.com
-  - HOST-SUFFIX,rsc.org
-  - HOST-SUFFIX,sae.org
-  - HOST-SUFFIX,sagepub.com
-  - HOST-SUFFIX,sciencemag.org
-  - HOST-SUFFIX,cas.org
-  - HOST-SUFFIX,scopus.com
-  - HOST-SUFFIX,siam.org
-  - HOST-SUFFIX,spiedigitallibrary.org
-  - HOST-SUFFIX,springer.com
-  - HOST-SUFFIX,tandfonline.com
-  - HOST-SUFFIX,royalsociety.org
-  - HOST-SUFFIX,webofknowledge.com
-  - HOST-SUFFIX,webofscience.com
-  - HOST-SUFFIX,westlaw.com
-  - HOST-SUFFIX,itextbook.cn
-  - HOST-SUFFIX,nju.edu.cn
-  - HOST-SUFFIX,blyun.com
-  - HOST-SUFFIX,pkulaw.com
-  - HOST-SUFFIX,pkulaw.cn
-  - HOST-SUFFIX,rdfybk.com
-  - HOST-SUFFIX,chengyiart.cn
-  - HOST-SUFFIX,duxiu.com
-  - HOST-SUFFIX,zhizhen.com
-  - HOST-SUFFIX,sciencereading.cn
-  - HOST-SUFFIX,keledge.com
-  - HOST-SUFFIX,kuke.com
-  - HOST-SUFFIX,qikan.com
-  - HOST-SUFFIX,lexiscn.com
-  - HOST-SUFFIX,exuezhe.com
-  - HOST-SUFFIX,softtone.cn
-  - HOST-SUFFIX,wanfangdata.com.cn
-  - HOST-SUFFIX,bjadks.com
-  - HOST-SUFFIX,cqvip.com
-  - HOST-SUFFIX,wqxuetang.com
-  - HOST-SUFFIX,koolearn.com
-  - HOST-SUFFIX,cnpereading.com
-  - HOST-SUFFIX,lawdata01.com.cn
-  - HOST-SUFFIX,51zhy.cn
-  - HOST-SUFFIX,cnki.net
+  HOST-KEYWORD,chaoxing
+  HOST-SUFFIX,chaoxing.com
+  HOST-SUFFIX,acm.org
+  HOST-SUFFIX,acs.org
+  HOST-SUFFIX,wiley.com
+  HOST-SUFFIX,aiaa.org
+  HOST-SUFFIX,scitation.org
+  HOST-SUFFIX,aps.org
+  HOST-SUFFIX,ascelibrary.org
+  HOST-SUFFIX,asme.org
+  HOST-SUFFIX,begellhouse.com
+  HOST-SUFFIX,cambridge.org
+  HOST-SUFFIX,taylorfrancis.com
+  HOST-SUFFIX,epnet.com
+  HOST-SUFFIX,sciencedirect.com
+  HOST-KEYWORD,elsevier
+  HOST-SUFFIX,emerald.com
+  HOST-SUFFIX,engineeringvillage.com
+  HOST-SUFFIX,calis.edu.cn
+  HOST-SUFFIX,icevirtuallibrary.com
+  HOST-SUFFIX,heinonline.org
+  HOST-SUFFIX,ieee.org
+  HOST-SUFFIX,clarivate.com
+  HOST-SUFFIX,iop.org
+  HOST-SUFFIX,jove.com
+  HOST-SUFFIX,jstor.org
+  HOST-SUFFIX,law360.com
+  HOST-SUFFIX,lexisnexis.com
+  HOST-SUFFIX,ams.org
+  HOST-SUFFIX,nature.com
+  HOST-SUFFIX,osapublishing.org
+  HOST-SUFFIX,iresearchbook.cn
+  HOST-SUFFIX,pqdtcn.com
+  HOST-SUFFIX,proquest.com
+  HOST-SUFFIX,rsc.org
+  HOST-SUFFIX,sae.org
+  HOST-SUFFIX,sagepub.com
+  HOST-SUFFIX,sciencemag.org
+  HOST-SUFFIX,cas.org
+  HOST-SUFFIX,scopus.com
+  HOST-SUFFIX,siam.org
+  HOST-SUFFIX,spiedigitallibrary.org
+  HOST-SUFFIX,springer.com
+  HOST-SUFFIX,tandfonline.com
+  HOST-SUFFIX,royalsociety.org
+  HOST-SUFFIX,webofknowledge.com
+  HOST-SUFFIX,webofscience.com
+  HOST-SUFFIX,westlaw.com
+  HOST-SUFFIX,itextbook.cn
+  HOST-SUFFIX,nju.edu.cn
+  HOST-SUFFIX,blyun.com
+  HOST-SUFFIX,pkulaw.com
+  HOST-SUFFIX,pkulaw.cn
+  HOST-SUFFIX,rdfybk.com
+  HOST-SUFFIX,chengyiart.cn
+  HOST-SUFFIX,duxiu.com
+  HOST-SUFFIX,zhizhen.com
+  HOST-SUFFIX,sciencereading.cn
+  HOST-SUFFIX,keledge.com
+  HOST-SUFFIX,kuke.com
+  HOST-SUFFIX,qikan.com
+  HOST-SUFFIX,lexiscn.com
+  HOST-SUFFIX,exuezhe.com
+  HOST-SUFFIX,softtone.cn
+  HOST-SUFFIX,wanfangdata.com.cn
+  HOST-SUFFIX,bjadks.com
+  HOST-SUFFIX,cqvip.com
+  HOST-SUFFIX,wqxuetang.com
+  HOST-SUFFIX,koolearn.com
+  HOST-SUFFIX,cnpereading.com
+  HOST-SUFFIX,lawdata01.com.cn
+  HOST-SUFFIX,51zhy.cn
+  HOST-SUFFIX,cnki.net
