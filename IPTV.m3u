@@ -1,0 +1,63 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="CCTV4K-25P-HLG源" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="4K频道",CCTV4K-25P-HLG源
+http://192.168.40.111:6789/cctv4k.php
+#EXTINF:-1,tvg-id="" tvg-name="鳳凰衛視資訊台" tvg-logo="" group-title="Youtube",鳳凰衛視資訊台
+http://192.168.40.111:35455/youtube/dmDg7NfUoSw
+#EXTINF:-1 tvg-name="无线新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="4K频道",无线新闻台
+http://192.168.40.111:6789/tvb.php?id=0&hq
+#EXTINF:-1 group-title="未分类",寰宇新聞台
+http://192.168.40.111:35455/youtube/B7Zp3d6xXWw
+#EXTINF:-1 group-title="未分类",TVBS新聞台
+http://192.168.40.111:35455/youtube/2mCSYvcfhtc
+#EXTINF:-1 group-title="未分类",TVBS國際
+http://192.168.40.111:35455/youtube/wGB8C-lC-70
+#EXTINF:-1 group-title="未分类",TVBS國際
+http://192.168.40.111:35455/youtube/jOYqinIwMg4
+#EXTINF:-1 group-title="未分类",TVBS_HD
+http://192.168.40.111:35455/youtube/Ac24P_VZ05Q
+#EXTINF:-1 group-title="未分类",台視新聞台
+http://192.168.40.111:35455/youtube/xL0ch83RAK8
+#EXTINF:-1 group-title="未分类",华视新闻直播
+http://192.168.40.111:35455/youtube/wM0g8EoUZ_E
+#EXTINF:-1 group-title="未分类",三立 iNEWS新聞
+http://192.168.40.111:35455/youtube/CKjSm5ZeehE
+#EXTINF:-1 group-title="未分类",三立海外直播
+http://192.168.40.111:35455/youtube/FoBfXvlOR6I
+#EXTINF:-1 group-title="未分类",三立+
+http://192.168.40.111:35455/youtube/EB4g7wecgTI
+#EXTINF:-1 group-title="未分类",CTI中天新聞
+http://192.168.40.111:35455/youtube/_QbRXRnHMVY
+#EXTINF:-1 group-title="未分类",中天亞洲台HD
+http://192.168.40.111:35455/youtube/oPx1u9WQrWg
+#EXTINF:-1 group-title="未分类",中視新聞
+http://192.168.40.111:35455/youtube/TCnaIE_SAtM
+#EXTINF:-1 group-title="未分类",民視新聞
+http://192.168.40.111:35455/youtube/ylYJSBUgaMA
+#EXTINF:-1 group-title="未分类",台視新聞台
+http://192.168.40.111:35455/youtube/xL0ch83RAK8
+#EXTINF:-1 group-title="未分类",华视新闻
+http://192.168.40.111:35455/youtube/wM0g8EoUZ_E
+#EXTINF:-1 group-title="未分类",鳳凰直播LIVE
+http://192.168.40.111:35455/youtube/dmDg7NfUoSw
+#EXTINF:-1 group-title="未分类",中天直播
+http://192.168.40.111:35455/youtube/kNKMz8c8U9g
+#EXTINF:-1 group-title="未分类",CCTV中文国际
+http://192.168.40.111:35455/youtube/QTz6avPD4Ns
+#EXTINF:-1 group-title="未分类",CCTV纪录
+http://192.168.40.111:35455/youtube/iHOWTx4-hC8
+#EXTINF:-1 group-title="未分类",ABC New
+http://192.168.40.111:35455/youtube/w_Ma8oQLmSM
+#EXTINF:-1 group-title="未分类",Sky New
+http://192.168.40.111:35455/youtube/9Auq9mYxFEE
+#EXTINF:-1 group-title="未分类",Watch ABC
+http://192.168.40.111:35455/youtube/vOTiJkg1voo
+#EXTINF:-1 group-title="未分类",NBC News NOW
+http://192.168.40.111:35455/youtube/WSnht5nBoe4
+#EXTINF:-1 group-title="未分类",FRANCE 24 English
+http://192.168.40.111:35455/youtube/h3MuIUNCCzI
+#EXTINF:-1 group-title="未分类",NDTV 24x7 Live
+http://192.168.40.111:35455/youtube/WB-y7_ymPJ4
+#EXTINF:-1 group-title="未分类",GMA News
+http://192.168.40.111:35455/youtube/m_Tyae0D7Zc
+#EXTINF:-1 group-title="未分类",National Geographic
+http://192.168.40.111:35455/youtube/0ThMultL4PY
