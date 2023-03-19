@@ -8,3 +8,4 @@ payload:
   - DOMAIN-SUFFIX,ceres9350.com
   - DOMAIN-SUFFIX,venus7202.com
   - DOMAIN-SUFFIX,cdn.efhie.com
+  - DOMAIN-SUFFIX,ocsp.pki.goog
