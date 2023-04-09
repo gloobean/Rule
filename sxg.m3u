@@ -41,6 +41,7 @@ http://192.168.40.111:6789/sxg.php?id=CCTV-17_4000
 http://192.168.40.111:6789/sxg.php?id=ys4Kcq_2000
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/4K电影4K.png" group-title="其他",4K超高清电影 4K
 http://192.168.40.111:6789/sxg.php?id=emdy4k_8000
+#EXTINF:-1 tvg-name="无线新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="4K频道",无线新闻台
 #EXTINF:-1,tvg-id="欢笑剧场" tvg-name="欢笑剧场" tvg-logo="https://epg.112114.xyz/logo/欢笑剧场.png" group-title="其他",欢笑剧场4K
 http://192.168.40.111:6789/sxg.php?id=hxjc-4k_8000
 #EXTINF:-1,tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://epg.112114.xyz/logo/凤凰中文.png" group-title="香港",凤凰中文
