@@ -73,6 +73,12 @@ http://192.168.40.111:6789/sxg.php?id=jlwsH265_4000
 http://192.168.40.111:6789/sxg.php?id=szwsH265_4000
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" tvg-id="130" tvg-name="无线新闻" group-title="港澳台",无线新闻台
 http://192.168.40.111:6789/tvb.php?id=0&hq
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" tvg-id="130" tvg-name="无线财经" group-title="港澳台",无线财经台
+http://192.168.40.111:6789/tvb.php?id=2&hq
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" tvg-id="130" tvg-name="事件直播频道" group-title="港澳台",事件直播频道1
+http://192.168.40.111:6789/tvb.php?id=4&hq
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" tvg-id="130" tvg-name="事件直播频道" group-title="港澳台",事件直播频道2
+http://192.168.40.111:6789/tvb.php?id=6&hq
 #EXTINF:-1,tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://epg.112114.xyz/logo/凤凰中文.png" group-title="港澳台",凤凰中文
 http://192.168.40.111:6789/sxg.php?id=test1_4000
 #EXTINF:-1,tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://epg.112114.xyz/logo/凤凰资讯.png" group-title="港澳台",凤凰资讯
