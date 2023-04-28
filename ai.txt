@@ -1,11 +1,13 @@
-HOST, cdn.auth0.com, OpenAI
-HOST, openaiapi-site.azureedge.net, OpenAI
-HOST-SUFFIX, ai.com, OpenAI
-HOST-SUFFIX, openai.com, OpenAI
-HOST-SUFFIX, vimeo.com, OpenAI
-HOST-SUFFIX, vimeocdn.com, OpenAI
-HOST-SUFFIX, hcaptcha.com, OpenAI
-HOST-SUFFIX, akamaized.com, OpenAI
+# NAME: chatgpt
+HOST,cdn.auth0.com, OpenAI
+HOST,openaiapi-site.azureedge.net, OpenAI
+HOST-SUFFIX,ai.com, OpenAI
+HOST-SUFFIX,openai.com, OpenAI
+HOST-SUFFIX,vimeo.com, OpenAI
+HOST-SUFFIX,vimeocdn.com, OpenAI
+HOST-SUFFIX,hcaptcha.com, OpenAI
+HOST-SUFFIX,akamaized.com, OpenAI
+# NAME: Bing
 HOST-SUFFIX,bing.com,Bing
 HOST-SUFFIX,bing.com.cn,Bing
 HOST-SUFFIX,bing.net,Bing
