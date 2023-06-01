@@ -1,4 +1,4 @@
-# NAME: chatgpt
+# NAME: chatgpt 
 HOST,cdn.auth0.com, OpenAI
 HOST,openaiapi-site.azureedge.net, OpenAI
 HOST-SUFFIX,ai.com, OpenAI
