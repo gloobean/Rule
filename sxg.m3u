@@ -93,8 +93,6 @@ http://192.168.40.111:35455/youtube/CKjSm5ZeehE
 http://192.168.40.111:35455/youtube/TCnaIE_SAtM
 #EXTINF:-1,tvg-id="6071" tvg-name="民视新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FTVNews.png" group-title="国际",民视新闻台
 http://192.168.40.111:35455/youtube/ylYJSBUgaMA
-#EXTINF:-1,tvg-id="6026" tvg-name="台视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/台视.png" group-title="国际",台视
-http://192.168.40.111:35455/youtube/xL0ch83RAK8
 #EXTINF:-1,tvg-id="6054" tvg-name="中天综合台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CtiVariety.png" group-title="国际",中天综合台
 http://192.168.40.111:35455/youtube/kNKMz8c8U9g
 #EXTINF:-1,tvg-id="734" tvg-name="france24" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/france24.png" group-title="国际",法国24台
