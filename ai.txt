@@ -32,3 +32,5 @@ HOST-SUFFIX,office365love.com,Bing
 HOST-SUFFIX,office365tw.com,Bing
 HOST-SUFFIX,renovacionoffice.com,Bing
 HOST-SUFFIX,sprinklesapp.com,Bing
+# claude
+HOST-SUFFIX,anthropic.com,OpenAI
