@@ -36,3 +36,4 @@ HOST-SUFFIX,sprinklesapp.com,Bing
 HOST-SUFFIX,anthropic.com,OpenAI
 HOST-SUFFIX,claude.ai,OpenAI
 HOST-SUFFIX,cdn.usefathom.com,OpenAI
+HOST-SUFFIX,hsforms.com,OpenAI
