@@ -34,3 +34,4 @@ HOST-SUFFIX,renovacionoffice.com,Bing
 HOST-SUFFIX,sprinklesapp.com,Bing
 # claude
 HOST-SUFFIX,anthropic.com,OpenAI
+HOST-SUFFIX,claude.ai,OpenAI
