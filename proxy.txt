@@ -9,3 +9,6 @@ payload:
   - DOMAIN-SUFFIX,venus7202.com
   - DOMAIN-SUFFIX,cdn.efhie.com
   - DOMAIN-SUFFIX,ocsp.pki.goog
+  - DOMAIN-SUFFIX,malaysla.com
+  - DOMAIN-SUFFIX,biggggg.com
+  - DOMAIN-SUFFIX,nivod4.tv
