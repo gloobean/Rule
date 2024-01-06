@@ -1,3 +1,4 @@
 payload:
   - DOMAIN-KEYWORD,emby
   - DOMAIN-SUFFIX,wogg.xyz
+  - DOMAIN-SUFFIX,wogg.link
