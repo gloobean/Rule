@@ -2,3 +2,5 @@ payload:
   - DOMAIN-KEYWORD,emby
   - DOMAIN-SUFFIX,wogg.xyz
   - DOMAIN-SUFFIX,wogg.link
+  - DOMAIN-SUFFIX,gitcafe.net
+  - DOMAIN-SUFFIX,zxzja.com
