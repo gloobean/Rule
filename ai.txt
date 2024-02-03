@@ -46,8 +46,10 @@ DOMAIN-SUFFIX,msunlimitedcloudsummit.com
 DOMAIN-SUFFIX,renovacionoffice.com
 DOMAIN-SUFFIX,sprinklesapp.com
 # claude
-HOST-SUFFIX,anthropic.com,OpenAI
-HOST-SUFFIX,claude.ai,OpenAI
-HOST-SUFFIX,cdn.usefathom.com,OpenAI
-HOST-SUFFIX,hsforms.com,OpenAI
-HOST-SUFFIX,intercom.io,OpenAI
+DOMAIN-SUFFIX,anthropic.com,OpenAI
+DOMAIN-SUFFIX,claude.ai,OpenAI
+DOMAIN-SUFFIX,cdn.usefathom.com,OpenAI
+DOMAIN-SUFFIX,hsforms.com,OpenAI
+DOMAIN-SUFFIX,intercom.io,OpenAI
+# coze
+DOMAIN-SUFFIX,coze.com
