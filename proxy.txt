@@ -16,3 +16,4 @@ payload:
   - DOMAIN-SUFFIX,vod.infiniteapi.com
   - DOMAIN-SUFFIX,ulivetv.net
   - DOMAIN-SUFFIX,efhie.com
+  - DOMAIN-SUFFIX,coze.com
