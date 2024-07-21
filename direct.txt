@@ -48,3 +48,4 @@ payload:
   - DOMAIN-KEYWORD,tt.cuc.myqcloud.com.cn
   - DOMAIN-SUFFIX,ikzybf.com
   - DOMAIN-SUFFIX,bfikuncdn.com
+  - DOMAIN-SUFFIX,kmeiju.cc
