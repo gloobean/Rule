@@ -37,3 +37,4 @@ payload:
   - DOMAIN-SUFFIX,nivodz.com
   - DOMAIN-SUFFIX,histar.tv
   - DOMAIN-SUFFIX,duboku.net
+  - DOMAIN-SUFFIX,duboku.tv
