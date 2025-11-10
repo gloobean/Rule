@@ -39,4 +39,4 @@ payload:
   - DOMAIN-SUFFIX,duboku.net
   - DOMAIN-SUFFIX,duboku.tv
   - DOMAIN-SUFFIX,cf.xmsl.org
-  - DOMAIN-SUFFIX,cflocal.xxlb.net
+  - DOMAIN-SUFFIX,xxlb.net
