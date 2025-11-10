@@ -38,3 +38,4 @@ payload:
   - DOMAIN-SUFFIX,histar.tv
   - DOMAIN-SUFFIX,duboku.net
   - DOMAIN-SUFFIX,duboku.tv
+  - DOMAIN-SUFFIX,cf.xmsl.org
