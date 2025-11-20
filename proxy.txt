@@ -3,7 +3,7 @@ payload:
   - DOMAIN-SUFFIX,Workers.dev
   - DOMAIN-SUFFIX,splitbee.io
   - DOMAIN-SUFFIX,5mlstudio.com
-  - DOMAIN-SUFFIX,haiwaikan.com
+  - DOMAIN-SUFFIX,cdn.sexemby.com
   - DOMAIN-SUFFIX,bfvvs.com
   - DOMAIN-SUFFIX,ceres9350.com
   - DOMAIN-SUFFIX,venus7202.com
