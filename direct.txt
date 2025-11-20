@@ -49,3 +49,7 @@ payload:
   - DOMAIN-SUFFIX,ikzybf.com
   - DOMAIN-SUFFIX,bfikuncdn.com
   - DOMAIN-SUFFIX,kmeiju.cc
+  - DOMAIN-SUFFIX,a.sexemby.com
+  - DOMAIN-SUFFIX,qq.jiedaibao.gs
+  - DOMAIN-SUFFIX,hk.sexemby.com
+  - DOMAIN-SUFFIX,jp4837.direct.sexemby.com
