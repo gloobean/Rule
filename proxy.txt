@@ -40,3 +40,5 @@ payload:
   - DOMAIN-SUFFIX,duboku.tv
   - DOMAIN-SUFFIX,cf.xmsl.org
   - DOMAIN-SUFFIX,xxlb.net
+  - DOMAIN-SUFFIX,stream-gd-1.sexemby.com
+  - DOMAIN-SUFFIX,stream-115-1.sexemby.com
